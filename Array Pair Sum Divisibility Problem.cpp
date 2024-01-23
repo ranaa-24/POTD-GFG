@@ -25,4 +25,4 @@ bool canPair(vector<int> nums, int k)
             return false;
     }
     return true;
-}
+}   
